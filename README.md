@@ -1,6 +1,6 @@
 # Hospital_data
 Hello, welcome to the Hospital data repository!
-This is a data repository dedicated to providing hospital data from hospitals and instructions on how to manipulate them.
+This is a data repository dedicated to providing hospital data from American hospitals and instructions on how to manipulate them.
 
 As shown here in the files, the raw data is named "hospital-data.csv" and it contains information across 13 categories in over 4500 hospitals in the U.S. Please see the information provided in the ipynb file named "Feeder3_1.ipynb" to learn how to manipulate the data given in the form of csv, such as creating new data frames, filtering data, as well as merging and joining multiple sets of dataframes.
 
