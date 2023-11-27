@@ -1,4 +1,4 @@
-# Hospital_data
+# Hospital data
 Hello, welcome to the Hospital data repository!
 This is a data repository dedicated to providing hospital data from American hospitals and instructions on how to manipulate them.
 
