@@ -12,7 +12,7 @@ resources in North Carolina and South Carolina compare. To answer this question,
 This repository contains all necessary information on healthcare resources in the U.S. and users can manipulate them using the pandas module, and specific instructions for data management and editing
 can be found in the example `Data_subsets.ipynb` file. 
 
-**Within this repository you will find three files.**
+**Within this repository you will find five files.**
 
 *1. A .csv file (the raw data)*
 
@@ -20,9 +20,13 @@ This .csv file contains the original data published by the U.S. Department of He
 
 *2. A ipynb file containing the methods used to manipulate data and generate subsets of data.*
 
-*3. A .csv file containing the subset of data from the original .csv file.*
+*3. A .csv file containing the subset of data from the original .csv file that compares the medical resources of South Carolina and North Carolina.*
 
 This csv file is the subset of the original data, which compares and contrasts the hospital data from North Carolina and South Carolina.
+
+*4 A .csv file containing the subset of data from the  oroginal .csv file that is used as an example of data merging.*
+
+*5 This readme file. Have fun!*
 
 **Playing around with the repository**
 
