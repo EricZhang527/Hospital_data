@@ -31,3 +31,6 @@ This csv file is the subset of the original data, which compares and contrasts t
 **Playing around with the repository**
 
 To get started exploring the repository and creating data subsets on your own, read through the ipynb notebook file and try to understand the ideas behind code snippets. Then, feel free to use the data manipulation method to generate your own data. 
+
+**Here is the link to my files**
+[Carolina.csv](https://github.com/EricZhang527/Hospital_data/blob/main/Carolina.csv)
