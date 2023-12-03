@@ -34,4 +34,4 @@ To get started exploring the repository and creating data subsets on your own, r
 
 **Here is the link to my files**
 [Carolina.csv](https://github.com/EricZhang527/Hospital_data/blob/main/Carolina.csv) 
-[Merge_data.csv]()
+[Merge_data.csv](https://github.com/EricZhang527/Hospital_data/blob/main/Merge_data.csv)
